@@ -1,0 +1,11 @@
+framework module OlaMapServices {
+  umbrella header "OlaMapServices.h"
+  export *
+
+  module * { export * }
+}
+
+module OlaMapServices.Swift {
+  header "OlaMapServices-Swift.h"
+  requires objc
+}

@@ -1,0 +1,376 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name OlaMapServices
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Combine
+import CommonCrypto
+import CoreLocation
+import Foundation
+@_exported import OlaMapServices
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct POIDetailResponseModel : Swift.Codable {
+  public let type: Swift.String?
+  public let featureType: Swift.String?
+  public let geometry: OlaMapServices.POIGeometry?
+  public let properties: OlaMapServices.Properties?
+  public let exp: Swift.String?
+  public let message: Swift.String?
+  public let infoMessage: [Swift.String]?
+  public let errorMessage: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Properties : Swift.Codable {
+  public let primaryName: OlaMapServices.PropertyName?
+  public let altName: [OlaMapServices.PropertyName]?
+  public let category: Swift.String?, subCategory: Swift.String?, brandName: Swift.String?, fullAddress: Swift.String?
+  public let addressDetails: OlaMapServices.AddressDetails?
+  public let contactDetails: OlaMapServices.ContactDetails?
+  public let additionalInfo: OlaMapServices.AdditionalInfo?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct AdditionalInfo : Swift.Codable {
+  public let parentID: Swift.String?, openingHours: Swift.String?
+  public let parkingAvailable: Swift.Bool?, wheelchairAccessibility: Swift.Bool?
+  public let languageSpoken: Swift.String?, paymentMode: Swift.String?, confidenceScore: Swift.String?
+  public let isLandmark: Swift.Bool?
+  public let landmarkType: Swift.String?, landmarkID: Swift.String?, imageURL: Swift.String?
+  public let rating: Swift.Int?
+  public let popularity: Swift.Int?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct AddressDetails : Swift.Codable {
+  public let shopNumber: Swift.String?, houseNumber: Swift.String?, surveyNumber: Swift.String?, floorNumber: Swift.String?
+  public let subPremiseName: Swift.String?, premiseName: Swift.String?, streetName: Swift.String?, subSubLocality: Swift.String?
+  public let subLocality: Swift.String?, locality: Swift.String?, city: Swift.String?, village: Swift.String?
+  public let subDistrict: Swift.String?, district: Swift.String?, state: Swift.String?, country: Swift.String?
+  public let pinCode: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PropertyName : Swift.Codable {
+  public let name: Swift.String?, language: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct ContactDetails : Swift.Codable {
+  public let webAddress: Swift.String?, socialMedia: Swift.String?, emailID: Swift.String?, mobileNumber: Swift.String?
+  public let landLineNumber: Swift.String?, fax: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct POIGeometry : Swift.Codable {
+  public var coordinates: [Swift.Double]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public enum GeoCodingResponseStatus {
+  case ok
+  case invalidRequest
+  case overDailyLimit
+  case overQueryLimit
+  case requestDenied
+  case unknownError
+  case zeroResults
+  case unknown(Swift.String)
+}
+extension OlaMapServices.GeoCodingResponseStatus : Swift.RawRepresentable {
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+  public static func getValue(from value: Swift.String) -> OlaMapServices.GeoCodingResponseStatus
+}
+public enum OlaMapError : Swift.Error {
+  case noApiKey
+  case noInternet
+  case noStyle
+  case jsonParsing
+  case noMapView
+  case noMarkerID
+  case invalidPolygon
+  case invalidRoute(OlaMapServices.RouteInValidType)
+  case errorStatus(OlaMapServices.GeoCodingResponseStatus, Swift.String)
+  case custom(Swift.String)
+  public var message: Swift.String {
+    get
+  }
+}
+final public class PlacesService {
+  public init(authKey: Swift.String, baseURL: Foundation.URL)
+  final public func reverseGeocoding(location: OlaMapServices.Location, onCompletion: @escaping (_ result: Swift.Result<OlaMapServices.ReverseGeocodeResponseModel, OlaMapServices.OlaServiceError>) -> Swift.Void)
+  final public func getPlaceDetails(placeId: Swift.String, onCompletion: @escaping (_ result: Swift.Result<OlaMapServices.PlaceDetailsResponseModel, OlaMapServices.OlaServiceError>) -> Swift.Void)
+  final public func autoCompleteResults(query: Swift.String, location: CoreLocation.CLLocationCoordinate2D?, onCompletion: @escaping (_ result: Swift.Result<OlaMapServices.AutoCompleteResponseModel, OlaMapServices.OlaServiceError>) -> Swift.Void)
+  final public func getNearbySearch(_ types: Swift.String, locationCoordinate: CoreLocation.CLLocationCoordinate2D?, onCompletion: @escaping (_ result: Swift.Result<OlaMapServices.AutoCompleteResponseModel, OlaMapServices.OlaServiceError>) -> Swift.Void)
+  final public func reverseGeocoding(latlng: Swift.String, onCompletion: @escaping (_ result: Swift.Result<OlaMapServices.ReverseGeocodeResponseModel, OlaMapServices.OlaServiceError>) -> Swift.Void)
+  final public func getTextSearch(input: Swift.String, location: CoreLocation.CLLocationCoordinate2D? = nil, onCompletion: @escaping (_ result: Swift.Result<OlaMapServices.TextSearchResponseModel, OlaMapServices.OlaServiceError>) -> Swift.Void)
+  final public func forwardGeocode(address: Swift.String, language: Swift.String = "English", onCompletion: @escaping (_ result: Swift.Result<OlaMapServices.ForwardGeocodeResponseModel, OlaMapServices.OlaServiceError>) -> Swift.Void)
+  @objc deinit
+}
+public struct ForwardGeocodeResponseModel : Swift.Codable {
+  public let geocodingResults: [OlaMapServices.GeocodingResult]?
+  public let status: Swift.String?
+  public let reason: Swift.String?
+  public let infoMessage: [Swift.String]?
+  public let errorMessage: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct GeocodingResult : Swift.Codable {
+  public let formattedAddress: Swift.String?
+  public let types: [Swift.String]?
+  public let name: Swift.String?
+  public let geometry: OlaMapServices.Geometry?
+  public let addressComponents: [OlaMapServices.AddressComponents]?
+  public let plusCode: OlaMapServices.PlusCode?
+  public let placeID: Swift.String?
+  public let layer: [Swift.String]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct AutoCompleteResponseModel : Swift.Codable {
+  public let predictions: [OlaMapServices.Predictions]?
+  public let status: Swift.String?
+  public let infoMessage: [Swift.String]?
+  public let errorMessage: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Predictions : Swift.Codable {
+  public let predictionDescription: Swift.String?
+  public let placeID: Swift.String?
+  public let structuredFormatting: OlaMapServices.StructuredFormatting?
+  public let distanceMeters: Swift.Int?
+  public let geometry: OlaMapServices.Geometry?
+  public let searchType: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct StructuredFormatting : Swift.Codable {
+  public let mainText: Swift.String?
+  public let secondaryText: Swift.String?
+  public let mainTextMatchedSubstrings: [OlaMapServices.PlaceSuggestionMatchedSubstrings]?
+  public let secondaryTextMatchedSubstrings: [OlaMapServices.PlaceSuggestionMatchedSubstrings]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PlaceSuggestionMatchedSubstrings : Swift.Codable {
+  public let length: Swift.Int?
+  public let offset: Swift.Int?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct ErrorModel : Swift.Decodable {
+  public let error: Swift.String?
+  public let message: Swift.String?
+  public var httpStatus: Swift.Int?
+  public init(from decoder: any Swift.Decoder) throws
+}
+public enum OlaServiceError : Swift.Error {
+  case signupFailure
+  case noInternet
+  case mapLoadFail
+  case jsonParsing
+  case noHTTPBody
+  case somethingWentWrong
+  case custom(any Swift.Error)
+  case dataNotFound(Swift.String)
+  case tryAgain
+  case httpResponseError
+  case serverError5xx
+  case httpErrorObj(OlaMapServices.ErrorModel)
+  case badRequest4xx(Swift.String?)
+  public var message: Swift.String {
+    get
+  }
+}
+public struct TextSearchResponseModel : Swift.Codable {
+  public var predictions: [OlaMapServices.TextSearchPredictions]?
+  public var status: Swift.String?
+  public var exp: Swift.String?
+  public let infoMessage: [Swift.String]?
+  public let errorMessage: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct TextSearchPredictions : Swift.Codable {
+  public var formattedAddress: Swift.String?
+  public var geometry: OlaMapServices.Geometry?
+  public var placeId: Swift.String?
+  public var name: Swift.String?
+  public var types: [Swift.String]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct ReverseGeocodeResponseModel : Swift.Codable {
+  public let results: [OlaMapServices.PlaceResponseModel]?
+  public let exp: Swift.String?
+  public let infoMessage: [Swift.String]?
+  public let errorMessage: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PlaceDetailsResponseModel : Swift.Codable {
+  public let result: OlaMapServices.PlaceResponseModel?
+  public let status: Swift.String?
+  public let exp: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PlaceResponseModel : Swift.Codable {
+  public let addressComponents: [OlaMapServices.AddressComponents]?
+  public let formattedAddress: Swift.String?
+  public let placeID: Swift.String?
+  public let geometry: OlaMapServices.Geometry?
+  public let name: Swift.String?
+  public let reference: Swift.String?
+  public let businessStatus: Swift.String?
+  public let formattedPhoneNumber: Swift.String?
+  public let icon: Swift.String?
+  public let iconBackgroundColor: Swift.String?
+  public let iconMaskBaseURI: Swift.String?
+  public let internationalPhoneNumber: Swift.String?
+  public let openingHours: OlaMapServices.OpeningHours?
+  public let plusCode: OlaMapServices.PlusCode?
+  public let rating: Swift.Double?
+  public let reviews: [OlaMapServices.Review]?
+  public let types: [Swift.String]?, layer: [Swift.String]?
+  public let url: Swift.String?
+  public let userRatingsTotal: Swift.Int?, utcOffset: Swift.Int?
+  public let vicinity: Swift.String?, website: Swift.String?
+  public let adrAddress: Swift.String?
+  public let distanceMeters: Swift.Int?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Period : Swift.Codable {
+  public let close: OlaMapServices.Close?
+  public let periodOpen: OlaMapServices.Close?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Close : Swift.Codable {
+  public let day: Swift.Int?
+  public let time: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct LocationCoordinate {
+  public let latitude: Swift.Double, longitude: Swift.Double
+  public func getEncodedString() -> Swift.String
+}
+public struct OlaPlacesDetailResponseModel : Swift.Codable {
+  public let htmlAttributions: [Swift.String]?
+  public let result: OlaMapServices.ResultModel?
+  public let warnings: [Swift.String]?
+  public let errors: [Swift.String]?
+  public let status: Swift.String?
+  public let message: Swift.String?
+  public let infoMessage: [Swift.String]?
+  public let errorMessage: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct ResultModel : Swift.Codable {
+  public let addressComponents: [OlaMapServices.AddressComponents]?
+  public let formattedAddress: Swift.String?
+  public let geometry: OlaMapServices.Geometry?
+  public let placeId: Swift.String?
+  public let reference: Swift.String?
+  public let businessStatus: Swift.String?
+  public let formattedPhoneNumber: Swift.String?
+  public let icon: Swift.String?
+  public let iconBackgroundColor: Swift.String?
+  public let iconMaskBaseUri: Swift.String?
+  public let internationalPhoneNumber: Swift.String?
+  public let name: Swift.String?
+  public let openingHours: OlaMapServices.OpeningHours?
+  public let plusCode: OlaMapServices.PlusCode?
+  public let rating: Swift.Int?
+  public let reviews: [OlaMapServices.Review]?
+  public let types: [Swift.String]?
+  public let url: Swift.String?
+  public let userRatingsTotal: Swift.Int?
+  public let utcOffset: Swift.Int?
+  public let vicinity: Swift.String?
+  public let website: Swift.String?
+  public let photos: [Swift.String]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Review : Swift.Codable {
+  public let authorName: Swift.String?
+  public let authorUrl: Swift.String?
+  public let language: Swift.String?
+  public let profilePhotoUrl: Swift.String?
+  public let rating: Swift.Int?
+  public let relativeTimeDescription: Swift.String?
+  public let text: Swift.String?
+  public let time: Swift.Int?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct OpeningHours : Swift.Codable {
+  public let openNow: Swift.Bool?
+  public let periods: [OlaMapServices.Period]?
+  public let weekdayText: [Swift.String]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct AddressComponents : Swift.Codable {
+  public let longName: Swift.String?
+  public let shortName: Swift.String?
+  public let types: [Swift.String]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct PlusCode : Swift.Codable {
+  public let compoundCode: Swift.String?, globalCode: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Geometry : Swift.Codable {
+  public let location: OlaMapServices.Location?
+  public let locationType: Swift.String?
+  public let viewport: OlaMapServices.Viewport?
+  public let bounds: OlaMapServices.Bounds?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Bounds : Swift.Codable {
+  public let northeast: OlaMapServices.Location?, southwest: OlaMapServices.Location?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Location : Swift.Codable {
+  public var latitude: Swift.Double?, longitude: Swift.Double?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Viewport : Swift.Codable {
+  public let northeast: OlaMapServices.Location?, southwest: OlaMapServices.Location?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public enum RouteInValidType : Swift.String {
+  case emptyPolylineCoordinate
+  case invalidStepDistance
+  case emptyLegs
+  case emptySteps
+  case none
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+extension OlaMapServices.RouteInValidType : Swift.Equatable {}
+extension OlaMapServices.RouteInValidType : Swift.Hashable {}
+extension OlaMapServices.RouteInValidType : Swift.RawRepresentable {}
