@@ -14,15 +14,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		b2Yh0agwcKYo5yPlPDAJ/2lnHTM=
+		R765Z3pT2nqjCvpEFr++Rb7wAm0=
+		</data>
+		<key>LICENSE.docx</key>
+		<data>
+		P8a+9oK8zCq7pbe7cUn53IqLwIE=
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		N22gZ12ACsFa1dHprREZ3CyuwO0=
+		YB0OaBLB1ClKlHQ7JJAYVmPzUJE=
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		h4ktW0L5sN3Q5cjrOz8dmYCLheo=
+		onbVW+6uuedxYXa2UvKI88bZn2c=
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +34,19 @@
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		h4ktW0L5sN3Q5cjrOz8dmYCLheo=
+		onbVW+6uuedxYXa2UvKI88bZn2c=
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KjgcgoQZceJ3NSc5tRenRpetovY=
+		y+DzyU8M4S2ZsGLBdR8/E0+szHQ=
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		N22gZ12ACsFa1dHprREZ3CyuwO0=
+		YB0OaBLB1ClKlHQ7JJAYVmPzUJE=
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aP2YWkXpaFsZSIfbUnAq2LMZZFU=
+		a2xL7yt7BYZN8r7O5QCf74eyK8w=
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +54,11 @@
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aP2YWkXpaFsZSIfbUnAq2LMZZFU=
+		a2xL7yt7BYZN8r7O5QCf74eyK8w=
 		</data>
 		<key>Modules/OlaMapServices.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		T1y9g3vYYUBN/n1yJMPk84iDlDQ=
+		Oedsv+otDuceGf/AfEm6B9Ljhr0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -77,18 +81,25 @@
 			fftXVHiy7ez8F1lwUTgByw3pw8iERreRSLwaYD/E3Jk=
 			</data>
 		</dict>
+		<key>LICENSE.docx</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9WXw/HTApBl9hxOBiK85MDW5tZvy2pkPuexTpAcGfA0=
+			</data>
+		</dict>
 		<key>Modules/OlaMapServices.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w04992DNvvCVxKoZ8yecVUOSb31p4vmYlShyD0Ewd2c=
+			GSIdTUijnE8FtEQS87b78xMBX+VrzdkMaB+/dwPcYSo=
 			</data>
 		</dict>
 		<key>Modules/OlaMapServices.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z1NCFWEj9IIHlcplBt/+eXdXCygxKvBiD+sZltKGrq0=
+			vAowbOq4fovn1QZXW8b7//9l9mKdDrcIR/e4MUgZ44k=
 			</data>
 		</dict>
 		<key>Modules/OlaMapServices.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +113,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z1NCFWEj9IIHlcplBt/+eXdXCygxKvBiD+sZltKGrq0=
+			vAowbOq4fovn1QZXW8b7//9l9mKdDrcIR/e4MUgZ44k=
 			</data>
 		</dict>
 		<key>Modules/OlaMapServices.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J794XRA+A7Fceseu2C2nOQtQAlxhmc/jA4riNt1FzrE=
+			e2k2des7isfcfkvjdFQDDZVvpw1G/ciorK8rnlqiVQY=
 			</data>
 		</dict>
 		<key>Modules/OlaMapServices.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w04992DNvvCVxKoZ8yecVUOSb31p4vmYlShyD0Ewd2c=
+			GSIdTUijnE8FtEQS87b78xMBX+VrzdkMaB+/dwPcYSo=
 			</data>
 		</dict>
 		<key>Modules/OlaMapServices.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cMcUYm8rSm8LyGWxz2Eruricmn7OZUZmwV8HfssiAo8=
+			WqwYhT/p7LguOZl8C4NEIOIQbm2HO4145edcS1OquCk=
 			</data>
 		</dict>
 		<key>Modules/OlaMapServices.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +148,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cMcUYm8rSm8LyGWxz2Eruricmn7OZUZmwV8HfssiAo8=
+			WqwYhT/p7LguOZl8C4NEIOIQbm2HO4145edcS1OquCk=
 			</data>
 		</dict>
 		<key>Modules/OlaMapServices.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			id7bk0pG1jsvSSR8BvHh8Lk6ELz9jCmfafD268Q1H3g=
+			ZQbflMwb+L2J0Xj2TSAvpHOGuUfsbVKc0WPal6jMTM0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

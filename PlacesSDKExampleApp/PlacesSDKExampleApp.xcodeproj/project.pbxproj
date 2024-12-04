@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		778E56562D008DDF00DFC92F /* OlaMapServices.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 778E56542D008D3000DFC92F /* OlaMapServices.xcframework */; };
+		778E56572D008DDF00DFC92F /* OlaMapServices.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 778E56542D008D3000DFC92F /* OlaMapServices.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		DD8DCFAE2C6B9DC700AD05E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8DCFAD2C6B9DC700AD05E6 /* AppDelegate.swift */; };
 		DD8DCFB02C6B9DC700AD05E6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8DCFAF2C6B9DC700AD05E6 /* SceneDelegate.swift */; };
 		DD8DCFB52C6B9DC700AD05E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD8DCFB32C6B9DC700AD05E6 /* Main.storyboard */; };
@@ -27,8 +29,6 @@
 		DD8DCFF52C6B9EA100AD05E6 /* OlaPlacesService.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8DCFE82C6B9EA100AD05E6 /* OlaPlacesService.swift */; };
 		DD8DCFF62C6B9EA100AD05E6 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8DCFEA2C6B9EA100AD05E6 /* UIColor+Extension.swift */; };
 		DD8DCFF72C6B9EA100AD05E6 /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8DCFEB2C6B9EA100AD05E6 /* String+Extension.swift */; };
-		DD8DD0052C6B9FBE00AD05E6 /* OlaMapServices.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD8DD0002C6B9F7D00AD05E6 /* OlaMapServices.xcframework */; };
-		DD8DD0062C6B9FBE00AD05E6 /* OlaMapServices.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = DD8DD0002C6B9F7D00AD05E6 /* OlaMapServices.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		DD8DD0082C6BA2EC00AD05E6 /* AppUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD8DD0072C6BA2EC00AD05E6 /* AppUtility.swift */; };
 /* End PBXBuildFile section */
 
@@ -56,7 +56,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				DD8DD0062C6B9FBE00AD05E6 /* OlaMapServices.xcframework in Embed Frameworks */,
+				778E56572D008DDF00DFC92F /* OlaMapServices.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -64,6 +64,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		778E56542D008D3000DFC92F /* OlaMapServices.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = OlaMapServices.xcframework; sourceTree = "<group>"; };
 		DD8DCFAA2C6B9DC600AD05E6 /* PlacesSDKExampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlacesSDKExampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD8DCFAD2C6B9DC700AD05E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD8DCFAF2C6B9DC700AD05E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -88,7 +89,6 @@
 		DD8DCFE82C6B9EA100AD05E6 /* OlaPlacesService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OlaPlacesService.swift; sourceTree = "<group>"; };
 		DD8DCFEA2C6B9EA100AD05E6 /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
 		DD8DCFEB2C6B9EA100AD05E6 /* String+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
-		DD8DD0002C6B9F7D00AD05E6 /* OlaMapServices.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = OlaMapServices.xcframework; sourceTree = "<group>"; };
 		DD8DD0072C6BA2EC00AD05E6 /* AppUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppUtility.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -97,7 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DD8DD0052C6B9FBE00AD05E6 /* OlaMapServices.xcframework in Frameworks */,
+				778E56562D008DDF00DFC92F /* OlaMapServices.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,7 +217,7 @@
 		DD8DCFFF2C6B9F7D00AD05E6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				DD8DD0002C6B9F7D00AD05E6 /* OlaMapServices.xcframework */,
+				778E56542D008D3000DFC92F /* OlaMapServices.xcframework */,
 			);
 			path = Frameworks;
 			sourceTree = "<group>";

@@ -5102,23 +5102,6 @@
       },
       {
         "kind": "Import",
-        "name": "CommonCrypto",
-        "printedName": "CommonCrypto",
-        "declKind": "Import",
-        "moduleName": "OlaMapServices"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "OlaMapServices",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -17977,2457 +17960,2394 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 622,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 666,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 622,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 666,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1462,
       "length": 10,
       "value": "\"parentId\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1640,
       "length": 12,
       "value": "\"landmarkId\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1677,
       "length": 10,
       "value": "\"imageUrl\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1462,
       "length": 10,
       "value": "\"parentId\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1640,
       "length": 12,
       "value": "\"landmarkId\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1677,
       "length": 10,
       "value": "\"imageUrl\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2431,
       "length": 9,
       "value": "\"emailId\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2431,
       "length": 9,
       "value": "\"emailId\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/POIDetailResponseModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2737,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
       "kind": "StringLiteral",
       "offset": 1166,
       "length": 4,
       "value": "\"ok\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
       "kind": "StringLiteral",
       "offset": 1207,
       "length": 17,
       "value": "\"invalid_request\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
       "kind": "StringLiteral",
       "offset": 1261,
       "length": 18,
       "value": "\"over_daily_limit\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
       "kind": "StringLiteral",
       "offset": 1316,
       "length": 18,
       "value": "\"over_query_limit\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
       "kind": "StringLiteral",
       "offset": 1370,
       "length": 16,
       "value": "\"request_denied\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
       "kind": "StringLiteral",
       "offset": 1421,
       "length": 15,
       "value": "\"UNKNOWN_ERROR\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/GeoCodingResponseStatus.swift",
       "kind": "StringLiteral",
       "offset": 1470,
       "length": 14,
       "value": "\"zero_results\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
       "kind": "StringLiteral",
       "offset": 1422,
       "length": 46,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
       "kind": "StringLiteral",
       "offset": 1446,
       "length": 1,
       "value": "\": \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
       "kind": "StringLiteral",
       "offset": 1467,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
       "kind": "StringLiteral",
       "offset": 2398,
       "length": 41,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
       "kind": "StringLiteral",
       "offset": 2417,
       "length": 1,
       "value": "\", message: \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaMapError.swift",
       "kind": "StringLiteral",
       "offset": 2438,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/PublicKeyPinner.swift",
-      "kind": "Array",
-      "offset": 306,
-      "length": 166,
-      "value": "[0x30, 0x82, 0x01, 0x22, 0x30, 0x0d, 0x06, 0x09, 0x2a, 0x86, 0x48, 0x86, 0xf7, 0x0d, 0x01, 0x01, 0x01, 0x05, 0x00, 0x03, 0x82, 0x01, 0x0f, 0x00]"
-    },
-    {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/PublicKeyPinner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 669,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/PublicKeyPinner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 929,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/PublicKeyPinner.swift",
-      "kind": "IntegerLiteral",
-      "offset": 959,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/PublicKeyPinner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1280,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/PublicKeyPinner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1437,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/PublicKeyPinner.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1482,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/PublicKeyPinner.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1662,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 218,
       "length": 16,
       "value": "\"OlaMapServices\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 333,
       "length": 35,
       "value": "\"Please Create your OlaMap API Key\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 483,
       "length": 24,
       "value": "\"Coordinate is ill-text\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 614,
       "length": 41,
       "value": "\"Please check your Internet Connectivity\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 755,
       "length": 23,
       "value": "\"Map View Style is nil\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 880,
       "length": 56,
       "value": "\"JSON Structure is different from what you have defined\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1046,
       "length": 34,
       "value": "\"MapView Instance Creation Failed\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1176,
       "length": 15,
       "value": "\"Invalid Route\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1312,
       "length": 44,
       "value": "\"Invalid Annotation Identifer on OlaMapView\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1514,
       "length": 57,
       "value": "\"Invalid Polygon Coordinate Count. Should be more than 4\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
       "kind": "StringLiteral",
       "offset": 503,
       "length": 12,
       "value": "\"User-Agent\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
       "kind": "StringLiteral",
       "offset": 517,
       "length": 27,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
       "kind": "StringLiteral",
       "offset": 543,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
       "kind": "StringLiteral",
       "offset": 693,
       "length": 27,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
       "kind": "StringLiteral",
       "offset": 704,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Protocols\/Servicable.swift",
       "kind": "StringLiteral",
       "offset": 719,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/SuggestionModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/SuggestionModel.swift",
       "kind": "StringLiteral",
       "offset": 222,
       "length": 20,
       "value": "\"pickup_suggestions\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/SuggestionModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/SuggestionModel.swift",
       "kind": "StringLiteral",
       "offset": 222,
       "length": 20,
       "value": "\"pickup_suggestions\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 115,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 137,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 162,
       "length": 8,
       "value": "\"UPDATE\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 189,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 115,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 137,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 162,
       "length": 8,
       "value": "\"UPDATE\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 189,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "Dictionary",
       "offset": 540,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 685,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 1053,
       "length": 9,
       "value": "\"api_key\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "Dictionary",
       "offset": 1175,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "FloatLiteral",
       "offset": 1265,
       "length": 4,
       "value": "30.0"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 2024,
       "length": 38,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 2047,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/DefaultAPIRequest.swift",
       "kind": "StringLiteral",
       "offset": 2061,
       "length": 9,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 28,
       "value": "\"\/places\/v1\/reverse-geocode\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
       "kind": "StringLiteral",
       "offset": 409,
       "length": 20,
       "value": "\"\/places\/v1\/geocode\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
       "kind": "StringLiteral",
       "offset": 470,
       "length": 45,
       "value": "\"\/places\/v1\/maps\/api\/place\/autocomplete\/json\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
       "kind": "StringLiteral",
       "offset": 563,
       "length": 20,
       "value": "\"\/places\/v1\/details\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
       "kind": "StringLiteral",
       "offset": 631,
       "length": 25,
       "value": "\"\/places\/v1\/autocomplete\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
       "kind": "StringLiteral",
       "offset": 704,
       "length": 25,
       "value": "\"\/places\/v1\/nearbysearch\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
       "kind": "StringLiteral",
       "offset": 775,
       "length": 16,
       "value": "\"\/places\/v1\/poi\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/API.swift",
       "kind": "StringLiteral",
       "offset": 837,
-      "length": 37,
-      "value": "\"\/v1\/maps\/api\/places\/textSearch\/json\""
+      "length": 23,
+      "value": "\"\/places\/v1\/textsearch\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 898,
       "length": 16,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 905,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 913,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 1423,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 2515,
       "length": 7,
       "value": "\"input\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 2531,
       "length": 8,
       "value": "\"radius\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "IntegerLiteral",
       "offset": 2541,
       "length": 4,
       "value": "6000"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 2605,
       "length": 10,
       "value": "\"location\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 2619,
       "length": 48,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 2642,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 2666,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "Dictionary",
       "offset": 4017,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4036,
       "length": 7,
       "value": "\"types\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4068,
       "length": 10,
       "value": "\"location\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4082,
       "length": 88,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4125,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4169,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4186,
       "length": 8,
       "value": "\"layers\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4198,
       "length": 7,
       "value": "\"venue\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4221,
       "length": 14,
       "value": "\"withCentroid\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "BooleanLiteral",
       "offset": 4239,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4259,
       "length": 8,
       "value": "\"radius\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "IntegerLiteral",
       "offset": 4271,
       "length": 4,
       "value": "2000"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4291,
       "length": 14,
       "value": "\"strictbounds\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "BooleanLiteral",
       "offset": 4309,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 4329,
       "length": 7,
       "value": "\"limit\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "IntegerLiteral",
       "offset": 4340,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 5627,
       "length": 8,
       "value": "\"latlng\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 6784,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "Dictionary",
       "offset": 7669,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 7688,
       "length": 7,
       "value": "\"input\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 7761,
       "length": 10,
       "value": "\"location\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 7775,
       "length": 44,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 7796,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 7818,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 7845,
       "length": 8,
       "value": "\"radius\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "IntegerLiteral",
       "offset": 7857,
       "length": 4,
       "value": "5000"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 8807,
       "length": 9,
       "value": "\"English\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "Dictionary",
       "offset": 8955,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 8974,
       "length": 9,
       "value": "\"address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 9010,
       "length": 8,
       "value": "\"bounds\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 9022,
       "length": 75,
       "value": "\"12.933340962513984,77.61790532536864|12.928907300439393,77.61404294440102\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 9113,
       "length": 10,
       "value": "\"language\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 9910,
       "length": 12,
       "value": "\"User-Agent\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 9926,
       "length": 27,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 9952,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 9970,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Classes\/PlacesService.swift",
       "kind": "StringLiteral",
       "offset": 9988,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 517,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 561,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 517,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 561,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 993,
       "length": 19,
       "value": "\"formatted_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1081,
       "length": 20,
       "value": "\"address_components\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1126,
       "length": 11,
       "value": "\"plus_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1161,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 993,
       "length": 19,
       "value": "\"formatted_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1081,
       "length": 20,
       "value": "\"address_components\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1126,
       "length": 11,
       "value": "\"plus_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ForwordGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1161,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Configurations\/Configuration.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Configurations\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 125,
       "length": 46,
       "value": "\"r\/mIkG3eEpVdm+u\/ko\/cwxzOMo1bk4TyHIlByibiA5E=\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 402,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 446,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 402,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 446,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 848,
       "length": 13,
       "value": "\"description\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 885,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 932,
       "length": 23,
       "value": "\"structured_formatting\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 986,
       "length": 17,
       "value": "\"distance_meters\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 848,
       "length": 13,
       "value": "\"description\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 885,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 932,
       "length": 23,
       "value": "\"structured_formatting\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 986,
       "length": 17,
       "value": "\"distance_meters\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1416,
       "length": 11,
       "value": "\"main_text\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1457,
       "length": 16,
       "value": "\"secondary_text\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1515,
       "length": 30,
       "value": "\"main_text_matched_substrings\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1592,
       "length": 35,
       "value": "\"secondary_text_matched_substrings\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1416,
       "length": 11,
       "value": "\"main_text\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1457,
       "length": 16,
       "value": "\"secondary_text\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1515,
       "length": 30,
       "value": "\"main_text_matched_substrings\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/AutoCompleteResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1592,
       "length": 35,
       "value": "\"secondary_text_matched_substrings\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 216,
       "length": 40,
       "value": "\"PlacesSDK\/\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 237,
       "length": 1,
       "value": "\"(iOS\/\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 254,
       "length": 1,
       "value": "\")\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 298,
       "length": 53,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 320,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 323,
       "length": 1,
       "value": "\"(\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 346,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 349,
       "length": 1,
       "value": "\")\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 604,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/DeviceInfo.swift",
       "kind": "StringLiteral",
       "offset": 720,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 709,
       "length": 21,
       "value": "\"JSON Parsing Failed\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 776,
       "length": 41,
       "value": "\"Please check your Internet Connectivity\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 866,
       "length": 20,
       "value": "\"Signup API Failure\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 933,
       "length": 23,
       "value": "\"Map Tiles API Failure\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1002,
       "length": 26,
       "value": "\"No HTTP Body in Response\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1229,
       "length": 28,
       "value": "\"Failed!, Please try again.\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1301,
       "length": 42,
       "value": "\"Something went wrong!, Please try again.\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1393,
       "length": 14,
       "value": "\"Server Error\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1480,
       "length": 42,
       "value": "\"Something went wrong!, Please try again.\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1575,
       "length": 21,
       "value": "\"HTTP Response Error\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1655,
       "length": 79,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1690,
       "length": 42,
       "value": "\"Something went wrong!, Please try again.\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1733,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 500,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 544,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 500,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 544,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 873,
       "length": 19,
       "value": "\"formatted_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 938,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 873,
       "length": 19,
       "value": "\"formatted_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/TextSearchResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 938,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
-      "kind": "BooleanLiteral",
-      "offset": 194,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 678,
+      "offset": 507,
       "length": 29,
       "value": "\"Curl = \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 706,
+      "offset": 535,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "IntegerLiteral",
-      "offset": 896,
+      "offset": 689,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "IntegerLiteral",
-      "offset": 902,
+      "offset": 695,
       "length": 3,
       "value": "299"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 1905,
+      "offset": 1698,
       "length": 16,
       "value": "\"Data not found\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 84,
       "length": 9,
       "value": "\"OlaMapServices.APIClient\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 2020,
+      "offset": 1813,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2070,
+      "offset": 1863,
       "length": 6,
       "value": "\"\\\n\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2079,
+      "offset": 1872,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2113,
+      "offset": 1906,
       "length": 12,
       "value": "\"--request \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2128,
+      "offset": 1921,
       "length": 5,
       "value": "\"-X \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2137,
+      "offset": 1930,
       "length": 40,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2159,
+      "offset": 1952,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2165,
+      "offset": 1958,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2176,
+      "offset": 1969,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2214,
+      "offset": 2007,
       "length": 8,
       "value": "\"--url \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2225,
+      "offset": 2018,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2231,
+      "offset": 2024,
       "length": 50,
       "value": "\"'\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2264,
+      "offset": 2057,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2267,
+      "offset": 2060,
       "length": 1,
       "value": "\"' \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2280,
+      "offset": 2073,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2302,
+      "offset": 2095,
       "length": 7,
       "value": "\"curl \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2331,
+      "offset": 2124,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2361,
+      "offset": 2154,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2530,
+      "offset": 2323,
       "length": 11,
       "value": "\"--header \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2544,
+      "offset": 2337,
       "length": 5,
       "value": "\"-H \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2553,
+      "offset": 2346,
       "length": 33,
       "value": "\"'\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2562,
+      "offset": 2355,
       "length": 1,
       "value": "\": \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2572,
+      "offset": 2365,
       "length": 1,
       "value": "\"' \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2585,
+      "offset": 2378,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2752,
+      "offset": 2545,
       "length": 24,
       "value": "\"--data '\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2774,
+      "offset": 2567,
       "length": 2,
       "value": "\"'\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 3007,
+      "offset": 2800,
       "length": 19,
       "value": "\"Unexpected result\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/JSONParser.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/JSONParser.swift",
       "kind": "StringLiteral",
       "offset": 335,
       "length": 55,
       "value": "\"JSON Parsing Error: \n\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/JSONParser.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/JSONParser.swift",
       "kind": "StringLiteral",
       "offset": 387,
       "length": 1,
       "value": "\"\n\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/JSONParser.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/JSONParser.swift",
       "kind": "StringLiteral",
       "offset": 638,
       "length": 55,
       "value": "\"JSON Parsing Error: \n\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/JSONParser.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/JSONParser.swift",
       "kind": "StringLiteral",
       "offset": 690,
       "length": 1,
       "value": "\"\n\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 415,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 415,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1608,
       "length": 20,
       "value": "\"address_components\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1661,
       "length": 19,
       "value": "\"formatted_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1726,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1790,
       "length": 17,
       "value": "\"business_status\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1844,
       "length": 24,
       "value": "\"formatted_phone_number\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1922,
       "length": 23,
       "value": "\"icon_background_color\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1977,
       "length": 20,
       "value": "\"icon_mask_base_uri\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2038,
       "length": 28,
       "value": "\"international_phone_number\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2113,
       "length": 15,
       "value": "\"opening_hours\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2153,
       "length": 11,
       "value": "\"plus_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2245,
       "length": 20,
       "value": "\"user_ratings_total\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2291,
       "length": 12,
       "value": "\"utc_offset\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2361,
       "length": 13,
       "value": "\"adr_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2405,
       "length": 17,
       "value": "\"distance_meters\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1608,
       "length": 20,
       "value": "\"address_components\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1661,
       "length": 19,
       "value": "\"formatted_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1726,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1790,
       "length": 17,
       "value": "\"business_status\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1844,
       "length": 24,
       "value": "\"formatted_phone_number\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1922,
       "length": 23,
       "value": "\"icon_background_color\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1977,
       "length": 20,
       "value": "\"icon_mask_base_uri\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2038,
       "length": 28,
       "value": "\"international_phone_number\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2113,
       "length": 15,
       "value": "\"opening_hours\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2153,
       "length": 11,
       "value": "\"plus_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2245,
       "length": 20,
       "value": "\"user_ratings_total\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2291,
       "length": 12,
       "value": "\"utc_offset\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2361,
       "length": 13,
       "value": "\"adr_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2405,
       "length": 17,
       "value": "\"distance_meters\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2614,
       "length": 6,
       "value": "\"open\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2614,
       "length": 6,
       "value": "\"open\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3132,
       "length": 36,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3149,
       "length": 1,
       "value": "\",\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/ReverseGeocodeResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3167,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/AppUtility.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/AppUtility.swift",
       "kind": "BooleanLiteral",
       "offset": 168,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 561,
       "length": 19,
       "value": "\"html_attributions\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 711,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 755,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 561,
       "length": 19,
       "value": "\"html_attributions\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 711,
       "length": 15,
       "value": "\"info_messages\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 755,
       "length": 15,
       "value": "\"error_message\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1786,
       "length": 20,
       "value": "\"icon_mask_base_uri\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1839,
       "length": 20,
       "value": "\"user_ratings_total\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1930,
       "length": 17,
       "value": "\"business_status\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1983,
       "length": 23,
       "value": "\"icon_background_color\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2043,
       "length": 24,
       "value": "\"formatted_phone_number\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2101,
       "length": 20,
       "value": "\"address_components\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2162,
       "length": 28,
       "value": "\"international_phone_number\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2276,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2342,
       "length": 19,
       "value": "\"formatted_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2387,
       "length": 12,
       "value": "\"utc_offset\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2464,
       "length": 11,
       "value": "\"plus_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2504,
       "length": 15,
       "value": "\"opening_hours\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1786,
       "length": 20,
       "value": "\"icon_mask_base_uri\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1839,
       "length": 20,
       "value": "\"user_ratings_total\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1930,
       "length": 17,
       "value": "\"business_status\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 1983,
       "length": 23,
       "value": "\"icon_background_color\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2043,
       "length": 24,
       "value": "\"formatted_phone_number\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2101,
       "length": 20,
       "value": "\"address_components\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2162,
       "length": 28,
       "value": "\"international_phone_number\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2276,
       "length": 10,
       "value": "\"place_id\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2342,
       "length": 19,
       "value": "\"formatted_address\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2387,
       "length": 12,
       "value": "\"utc_offset\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2464,
       "length": 11,
       "value": "\"plus_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2504,
       "length": 15,
       "value": "\"opening_hours\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2990,
       "length": 13,
       "value": "\"author_name\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3029,
       "length": 12,
       "value": "\"author_url\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3095,
       "length": 19,
       "value": "\"profile_photo_url\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3174,
       "length": 27,
       "value": "\"relative_time_description\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 2990,
       "length": 13,
       "value": "\"author_name\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3029,
       "length": 12,
       "value": "\"author_url\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3095,
       "length": 19,
       "value": "\"profile_photo_url\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3174,
       "length": 27,
       "value": "\"relative_time_description\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3498,
       "length": 10,
       "value": "\"open_now\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3557,
       "length": 14,
       "value": "\"weekday_text\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3498,
       "length": 10,
       "value": "\"open_now\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3557,
       "length": 14,
       "value": "\"weekday_text\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3835,
       "length": 11,
       "value": "\"long_name\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3872,
       "length": 12,
       "value": "\"short_name\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3835,
       "length": 11,
       "value": "\"long_name\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 3872,
       "length": 12,
       "value": "\"short_name\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4090,
       "length": 15,
       "value": "\"compound_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4132,
       "length": 13,
       "value": "\"global_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4090,
       "length": 15,
       "value": "\"compound_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4132,
       "length": 13,
       "value": "\"global_code\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4465,
       "length": 15,
       "value": "\"location_type\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4465,
       "length": 15,
       "value": "\"location_type\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4876,
       "length": 5,
       "value": "\"lat\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4907,
       "length": 5,
       "value": "\"lng\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4876,
       "length": 5,
       "value": "\"lat\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/OlaPlacesDetailResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 4907,
       "length": 5,
       "value": "\"lng\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 19,
       "value": "\"Empty coordinates\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
       "kind": "StringLiteral",
       "offset": 424,
       "length": 24,
       "value": "\"Invalid Steps Distance\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
       "kind": "StringLiteral",
       "offset": 536,
       "length": 12,
       "value": "\"Empty legs\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
       "kind": "StringLiteral",
       "offset": 638,
       "length": 13,
       "value": "\"Empty Steps\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 19,
       "value": "\"Empty coordinates\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
       "kind": "StringLiteral",
       "offset": 424,
       "length": 24,
       "value": "\"Invalid Steps Distance\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
       "kind": "StringLiteral",
       "offset": 536,
       "length": 12,
       "value": "\"Empty legs\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Networking\/Models\/RouteInValidType.swift",
       "kind": "StringLiteral",
       "offset": 638,
       "length": 13,
       "value": "\"Empty Steps\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 227,
       "length": 6,
       "value": "\"NONE\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 335,
       "length": 6,
       "value": "\"INFO\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 444,
       "length": 7,
       "value": "\"DEBUG\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 562,
       "length": 9,
       "value": "\"WARNING\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 664,
       "length": 7,
       "value": "\"ERROR\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 227,
       "length": 6,
       "value": "\"NONE\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 335,
       "length": 6,
       "value": "\"INFO\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 444,
       "length": 7,
       "value": "\"DEBUG\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 562,
       "length": 9,
       "value": "\"WARNING\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 664,
       "length": 7,
       "value": "\"ERROR\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1264,
       "length": 25,
       "value": "\"yyyy-MM-dd HH:mm:ss.SSS\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "BooleanLiteral",
       "offset": 1683,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "BooleanLiteral",
       "offset": 2015,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2739,
       "length": 6,
       "value": "\"main\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2772,
       "length": 12,
       "value": "\"background\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2873,
       "length": 105,
       "value": "\"[\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2887,
       "length": 1,
       "value": "\"] [\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2899,
       "length": 1,
       "value": "\"] [\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2913,
       "length": 1,
       "value": "\":\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2927,
       "length": 1,
       "value": "\"] [\""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2947,
       "length": 1,
       "value": "\"] \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2964,
       "length": 1,
       "value": "\" - \""
     },
     {
-      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFramework\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
+      "filePath": "\/Users\/zeeshan.khundmiri\/Workspace\/PlacesFrameworkWithExample\/olamap-ios-places\/OlaMapServices\/Utilities\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2977,
       "length": 2,
